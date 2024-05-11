@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: PRADEEP E
+### Register Number: 212223230149
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
